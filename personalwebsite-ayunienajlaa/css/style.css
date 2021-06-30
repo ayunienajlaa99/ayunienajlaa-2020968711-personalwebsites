@@ -1,0 +1,30 @@
+body
+  {
+    background-color: lightblue;
+  }
+
+a:link, a:visited
+  {
+    background-color: #a67b96;
+    color:black;
+    text-decoration: none;
+    padding: 16px;
+    text-align: center;
+    display: inline-block;
+    font-family: Arial;
+  }
+
+
+a:hover
+  {
+    color:maroon;
+    background-color: white;
+    text-decoration: underline;
+  }
+
+a:active
+  {
+    color: maroon;
+    background-color: black;
+    text-decoration: underline;
+  }
